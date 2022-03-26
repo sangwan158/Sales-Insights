@@ -3,7 +3,7 @@
 ## About the Project
 Tableau dashboard for predicting sales insights for a hardware supplier company.
 
-## Built With
+## Tools Used
 - Tableau 
 - MySQL
 
