@@ -5,7 +5,7 @@ Tableau dashboard for predicting sales insights for a hardware supplier company.
 
 ## Built With
 - Tableau 
-- MySQl
+- MySQL
 
 ## Demo
 ![image](https://user-images.githubusercontent.com/90653024/160251582-459b945a-35e2-422d-99da-d32f6d9e008b.png)
